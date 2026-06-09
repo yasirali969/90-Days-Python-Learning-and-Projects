@@ -94,3 +94,118 @@ Today I learned about Python dictionaries, a powerful data structure used to sto
 
 I learned how dictionaries store data using key-value pairs and how they are more suitable than lists when information needs to be accessed using meaningful names instead of numeric indexes. Dictionaries are commonly used in real-world applications to represent structured data such as user profiles, product details, and database records.
 
+
+# Day 3 Practice(Lists,Dictionary,loops,Conditions)
+
+# Quiz Game (Python)
+
+This is a simple **console-based Quiz Game** built using Python. The game tests the user's general knowledge and keeps track of the score.
+
+## Features
+
+* Multiple-choice questions
+
+* Score tracking system
+
+* Instant feedback (Correct / Incorrect)
+
+* Final score summary
+
+* User-friendly console interface
+
+## Concepts Used
+
+* Lists of dictionaries
+
+* Loops (`for`)
+
+* Conditional statements (`if-else`)
+
+* User input
+
+* Score calculation
+
+## How It Works
+
+The quiz contains a list of questions. Each question has:
+
+* Question text
+
+* Multiple options
+
+* Correct answer
+
+The program:
+
+1. Displays each question
+
+2. Takes user input
+
+3. Checks the answer
+
+4. Updates the score
+
+At the end, it shows:
+
+* Player name
+
+* Final score
+
+## Learning Outcome
+
+This project improved my understanding of loops, condition checking, and how to structure small interactive applications in Python.
+
+
+# Student Management System (Python)
+
+This project is a simple **console-based Student Management System** built using Python. It helps manage student records using lists and dictionaries.
+
+## Features
+
+* Add new student
+
+* View all students
+
+* Search student by name
+
+* Menu-driven system using loops
+
+* Uses functions for better code organization
+
+## Concepts Used
+
+* Lists
+
+* Dictionaries
+
+* Functions
+
+* Loops (`while`, `for`)
+
+* Conditional statements (`match-case`)
+
+* User input handling
+
+## How It Works
+
+The program stores student data in a list of dictionaries. Each student has:
+
+* Name
+
+* Age
+
+* Class
+
+Users can interact with the system through a menu:
+
+1. Add Student → Adds a new student to the list
+
+2. View Students → Displays all student records
+
+3. Search Student → Finds a student by name
+
+4. Exit → Stops the program
+
+## Learning Outcome
+
+This project helped me understand how real-world applications manage data using basic Python structures like lists and dictionaries, and how menu-driven programs work.

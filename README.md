@@ -209,3 +209,68 @@ Users can interact with the system through a menu:
 ## Learning Outcome
 
 This project helped me understand how real-world applications manage data using basic Python structures like lists and dictionaries, and how menu-driven programs work.
+
+
+# Day 4 - Lists and Tuples in Python
+
+Today I learned about Lists and Tuples, two important data structures in Python used to store collections of data.
+
+## Topics Covered
+
+### Lists
+
+* Creating lists
+
+* Accessing elements using indexing
+
+* Negative indexing
+
+* List slicing
+
+* Adding elements with `append()`
+
+* Inserting elements with `insert()`
+
+* Removing elements with `remove()` and `pop()`
+
+* Sorting lists
+
+* Reversing lists
+
+* Finding maximum and minimum values
+
+### Tuples
+
+* Creating tuples
+
+* Accessing tuple elements
+
+* Tuple slicing
+
+* Iterating through tuples
+
+* Using `count()` and `index()`
+
+* Understanding tuple immutability
+
+* Converting tuples to lists and vice versa
+
+
+## Practice Tasks
+
+* Created lists of names and numbers
+
+* Performed indexing and slicing operations
+
+* Added, updated, and removed list elements
+
+* Sorted and reversed lists
+
+* Created tuples and accessed their values
+
+* Converted tuples into lists for modification
+
+## Key Learning
+
+I learned the difference between mutable and immutable data structures. Lists are flexible and can be modified, while tuples provide a safer way to store data that should not change.
+

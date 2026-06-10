@@ -67,3 +67,7 @@ def play(name):
 name="Yasir";
 game=play(name);
 print(game)
+
+# slicing in python
+#list[start:end:step]
+print(list[::2]     # print every 2nd element from the list

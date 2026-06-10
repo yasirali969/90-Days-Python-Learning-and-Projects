@@ -211,33 +211,27 @@ Users can interact with the system through a menu:
 This project helped me understand how real-world applications manage data using basic Python structures like lists and dictionaries, and how menu-driven programs work.
 
 
-# Day 4 - Lists and Tuples in Python
+# Day 4 - Sets and Tuples in Python
 
-Today I learned about Lists and Tuples, two important data structures in Python used to store collections of data.
+Today I learned about Sets and Tuples, two important data structures in Python used to store collections of data.
 
 ## Topics Covered
 
-### Lists
+## Sets
 
-* Creating lists
+*Creating sets
 
-* Accessing elements using indexing
+* Adding elements with add()
 
-* Negative indexing
+* Removing elements with remove()
 
-* List slicing
+* Checking membership using in
 
-* Adding elements with `append()`
+* Removing duplicate values
 
-* Inserting elements with `insert()`
+* Union, Intersection, and Difference operations
 
-* Removing elements with `remove()` and `pop()`
-
-* Sorting lists
-
-* Reversing lists
-
-* Finding maximum and minimum values
+* Iterating through sets
 
 ### Tuples
 
@@ -256,21 +250,6 @@ Today I learned about Lists and Tuples, two important data structures in Python 
 * Converting tuples to lists and vice versa
 
 
-## Practice Tasks
-
-* Created lists of names and numbers
-
-* Performed indexing and slicing operations
-
-* Added, updated, and removed list elements
-
-* Sorted and reversed lists
-
-* Created tuples and accessed their values
-
-* Converted tuples into lists for modification
-
 ## Key Learning
 
-I learned the difference between mutable and immutable data structures. Lists are flexible and can be modified, while tuples provide a safer way to store data that should not change.
-
+I learned the difference between mutable and immutable data structures. I learned that sets are useful for storing unique values and performing mathematical set operations, while tuples provide an immutable way to store data that should not be modified.

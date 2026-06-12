@@ -253,3 +253,60 @@ Today I learned about Sets and Tuples, two important data structures in Python u
 ## Key Learning
 
 I learned the difference between mutable and immutable data structures. I learned that sets are useful for storing unique values and performing mathematical set operations, while tuples provide an immutable way to store data that should not be modified.
+
+
+
+
+# Day 5 - CSV Files and Pandas
+
+Today I learned how to work with CSV files using the Pandas library in Python. I practiced reading data from CSV files, modifying records, adding new rows, and saving updated data back to CSV files.
+
+## Topics Covered
+
+### CSV Files
+
+* Reading CSV files
+* Writing data to CSV files
+* Updating existing records
+* Saving modified data
+
+### Pandas DataFrame
+
+* Creating and loading DataFrames
+* Using `read_csv()`
+* Using `to_csv()`
+* Adding rows with `loc`
+* Viewing data with `head()`
+* Understanding `index_col`
+* Selecting specific columns with `usecols`
+* Using custom converters
+* Viewing dataset information with `info()`
+
+## Practice Tasks
+
+* Loaded student records from CSV files
+* Added multiple student records to a DataFrame
+* Saved updated records to a new CSV file
+* Removed the default index column
+* Displayed selected columns from a dataset
+* Used converters to modify column values during import
+* Examined data types using `info()`
+
+## Key Learning
+
+I learned how Pandas simplifies working with tabular data. CSV files can be used to store and manage structured information such as student records, and Pandas provides powerful tools for reading, updating, filtering, and analyzing this data efficiently.
+
+## Technologies Used
+
+* Python
+* Pandas
+* CSV Files
+
+## Skills Gained
+
+* Data Manipulation
+* File Handling
+* Working with DataFrames
+* Data Import and Export
+* Basic Data Analysis
+

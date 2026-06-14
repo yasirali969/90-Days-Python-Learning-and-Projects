@@ -310,3 +310,147 @@ I learned how Pandas simplifies working with tabular data. CSV files can be used
 * Data Import and Export
 * Basic Data Analysis
 
+# Day 6: 📚 Student Management System (Python + Pandas)
+
+## 📌 Overview
+
+The Student Management System is a Python-based console application that uses the Pandas library to manage student records stored in a CSV file. It allows users to perform various operations such as adding, updating, deleting, and viewing student information, as well as calculating marks, percentages, and grades.
+
+---
+
+## 🚀 Features
+
+* 👨‍🎓 View all student records
+* ➕ Add a new student
+* ✏️ Update existing student information
+* ❌ Delete a student record
+* 📊 Calculate total marks
+* 📈 Calculate average marks
+* 📝 Generate percentage for each student
+* 🏆 Assign grades automatically
+* 💾 Store and update data in a CSV file
+
+---
+
+## 🛠️ Technologies Used
+
+* Python 3
+* Pandas Library
+* CSV File Handling
+
+---
+
+## 📂 Project Structure
+
+```text
+Student-Management-System/
+│
+├── stud.csv          # Student data file
+├── main.py           # Main application code
+└── README.md         # Project documentation
+```
+
+---
+
+## 📋 CSV File Format
+
+The `stud.csv` file should contain the following columns:
+
+| StudentID | Name  | Class | SubjectMarks |
+| --------- | ----- | ----- | ------------ |
+| 101       | Ali   | BSCS  | 85           |
+| 102       | Ahmed | BSIT  | 78           |
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/student-management-system.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd student-management-system
+```
+
+3. Install Pandas:
+
+```bash
+pip install pandas
+```
+
+4. Run the program:
+
+```bash
+python main.py
+```
+
+---
+
+## 🎯 Menu Options
+
+```text
+1. View Students
+2. Add Students
+3. Update Student
+4. Delete Student
+5. Sum
+6. Average
+7. Percentage
+8. Grade
+9. Exit
+```
+
+---
+
+## 📊 Grade Criteria
+
+| Percentage    | Grade |
+| ------------- | ----- |
+| 90% and Above | A     |
+| 70% - 89%     | B     |
+| 50% - 69%     | C     |
+| Below 50%     | F     |
+
+---
+
+## 📸 Sample Output
+
+```text
+==================
+1.View Students
+2.Add Students
+3.Update Student
+4.Delete Student
+5.Sum
+6.Average
+7.Percentage
+8.Grade
+9.Exit
+==================
+
+Enter the choice : 1
+```
+
+---
+
+## 🔮 Future Improvements
+
+* Search Student by ID
+* Multiple Subject Support
+* GUI Version using Tkinter
+* Database Integration (MySQL)
+* Student Ranking System
+* Export Reports to Excel
+
+---
+
+## 👨‍💻 Author
+
+**Yasir Ali Sajjad Ahmad**
+
+Feel free to contribute, fork, and improve this project.

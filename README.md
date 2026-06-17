@@ -640,3 +640,63 @@ Managing widget placement with Geometry Managers
 Handling user events and button clicks
 
 Implementing basic login validation logic
+
+
+
+#  Day 10 🏦 Bank Management System (Python OOP)
+
+## 📌 Project Overview
+
+A console-based Bank Management System developed using Python and Object-Oriented Programming (OOP) principles.
+
+This project simulates essential banking operations such as deposits, withdrawals, balance inquiries, transaction tracking, and money transfers between accounts.
+
+## 🚀 Features
+
+- Deposit Money
+
+- Withdraw Money
+
+- Check Account Balance
+
+- Display Account Information
+
+- Transfer Money Between Accounts
+
+- View Transaction History
+
+- Menu-Driven Interface
+
+## 🛠️ Technologies Used
+
+- Python 
+
+- Object-Oriented Programming (OOP)
+
+## 📚 OOP Concepts Applied
+
+- Classes and Objects
+
+- Constructors (`__init__`)
+
+- Instance Attributes
+
+- Methods
+
+- Encapsulation
+
+- Object Interaction
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained hands-on experience with:
+
+- Designing real-world systems using OOP
+
+- Managing account-related data efficiently
+
+- Recording and tracking transactions
+
+- Implementing fund transfer functionality
+
+- Building interactive menu-driven applications

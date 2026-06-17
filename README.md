@@ -573,12 +573,12 @@ Aspiring Software Engineer | Python Developer | Data Analysis Enthusiast
 * Data Visualization using Matplotlib
 * Export Reports to Excel/PDF
 
-## Day 8: 🧮 Tkinter Calculator
+# Day 8: 🧮 Tkinter Calculator
 
 A simple yet functional GUI Calculator built using Python’s Tkinter library.
 It performs basic arithmetic operations with an easy-to-use graphical interface.
 
-✨ Features
+## ✨ Features
 ➕ Addition
 
 ➖ Subtraction
@@ -600,7 +600,7 @@ It performs basic arithmetic operations with an easy-to-use graphical interface.
 Python 🐍
 Tkinter (Python GUI Library)
 
-👨‍💻 Author
+## 👨‍💻 Author
 Yasir Ali Sajjad Ahmad
 Python & GUI Developer 
 
